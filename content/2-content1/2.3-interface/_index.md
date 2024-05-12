@@ -6,4 +6,7 @@ chapter : false
 pre : " <b> 2.3 </b> "
 ---
 
-#### Home and Discovery pages:
+#### Home and Discovery pages
+#### Inbox and Profile pages
+
+hug
