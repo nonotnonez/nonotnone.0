@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/nonotnone.0/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/2-content1/2.1-start/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/2-content1/2.1-start/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/3-config/3.1-ec2/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/3-config/3.1-ec2/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/1-intro/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/1-intro/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/3-config/3.2-cicd/3.2.1-jenkins/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/3-config/3.2-cicd/3.2.1-jenkins/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/3-config/3.2-cicd/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/3-config/3.2-cicd/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/2-content1/2.2-create/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/2-content1/2.2-create/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/3-config/3.2-cicd/3.2.2-gitlab/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/3-config/3.2-cicd/3.2.2-gitlab/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/2-content1/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/2-content1/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/3-config/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/3-config/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/2-content1/2.3-interface/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/2-content1/2.3-interface/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/4-cleanup/4.1-ec2/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/4-cleanup/4.1-ec2/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/2-content1/2.4-monetizing/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/2-content1/2.4-monetizing/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/4-cleanup/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/4-cleanup/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/4-cleanup/4.2-jenkins/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/4-cleanup/4.2-jenkins/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/2-content1/2.5-conclusion/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/2-content1/2.5-conclusion/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/categories/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/nonotnone.0/tags/</loc>
+    <loc>https://nonotnonez.github.io/nonotnone.0/tags/</loc>
   </url>
 </urlset>
